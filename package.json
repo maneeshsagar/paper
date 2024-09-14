@@ -62,7 +62,8 @@
   },
   "resolutions": {
     "astro/sharp": "0.33.1",
-    "astro-compress/sharp": "0.33.1"
+    "astro-compress/sharp": "0.33.1",
+    "rollup": "npm:@rollup/wasm-node"
   },
   "dependencies": {
     "astro-compressor": "0.4.1"

@@ -1,6 +1,6 @@
 ---
 title: 'One Nation, One Election'
-description: 'Periyar Dam Dispute : Strengthening Democracy with Synchronized Elections. '
+description: 'One Nation, One Election : Strengthening Democracy with Synchronized Elections. '
 pubDate: 'Sep 22 2024'
 heroImage: '/images/onenation.webp'
 categories: ['Politics']

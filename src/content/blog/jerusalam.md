@@ -5,7 +5,7 @@ pubDate: 'Oct 11 2024'
 heroImage: '/images/jerusalam.webp'
 categories: ['Religion']
 authors: ['Neha Sagar']
-tags: ['religion', 'isreal','middle-east','Tel aviv','','jews','islam','lebnon']
+tags: ['religion', 'isreal','middle-east','tel-aviv','lebnon','jews','islam','lebnon']
 ---
 
 ### Introduction: 
